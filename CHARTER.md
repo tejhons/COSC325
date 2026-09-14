@@ -9,7 +9,7 @@
 - **Members:**
   - TJ Santos — Programming / Organization
   - Dar Weedon — Python
-  - Garrett Bush
+  - Garrett Bush - Java / Python 
 - **Roles:**
   - TJ Santos — Technical Lead
   - Dar Weedon — Scrum Master
