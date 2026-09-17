@@ -2,7 +2,7 @@
   <img src="images/spiclone_logo.png" width="200">
 </p>
 
-<h1 align="center">Spiclone</h1>
+<h1 align="center">SPICLONE</h1>
 
 <p align="center">A fan-made clone of the Spider-Man game, built for COSC325.</p>
 
