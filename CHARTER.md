@@ -8,8 +8,8 @@
 - **Team name:** 404 Team Not Found
 - **Members:**
   - TJ Santos — Programming / Organization
-  - Dar Weedon — Python
-  - Garrett Bush — Java / Python 
+  - Dar Weedon — Python / Testing
+  - Garrett Bush — Java / Testing 
 - **Roles:**
   - TJ Santos — Technical Lead
   - Dar Weedon — Scrum Master
