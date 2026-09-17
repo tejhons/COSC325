@@ -16,8 +16,8 @@
   - Garrett Bush — Product Owner
 
 ## Team Culture
-- **Course Objectives:** To build a portfolio and learn the process of developing an app so that it fills in knowledge gaps.
-- **Behaviors we value:** Communication and using time management skills to stay on schedule to the best of our ability.
+- **Course Objectives:** Our goal is to build a portfolio project and become familiar with the process of developing an app, in order to fill in software knowledge gaps.
+- **Behaviors we value:** We highly value communication and using time management skills to stay on schedule to the best of our ability.
 - **No-no's:** Abandoning your duties and leaving extra weight on your teammates to complete them for you.
 
 ## Logistics and Communication
