@@ -23,7 +23,7 @@
 ## Logistics and Communication
 - **Primary tool used to communicate:** iMessage groupchat
 - **How quickly should group members reply?** ASAP (but no longer than 48 hours)
-- **Standing meeting time:** 5:00pm
+- **Standing meeting time:** 5:00pm - 6:00pm
 
 ## Conflict Resolution
 - **If a dispute arises or a deadline is missed, how will you resolve it?** Plan a meeting ASAP within the group to try to get it resolved ourselves; otherwise, schedule a meeting with the instructor via Teams or in person to get it resolved.
