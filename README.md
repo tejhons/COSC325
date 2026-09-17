@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/mascot.png" width="200">
+  <img src="images/spiclone_logo.png" width="200">
 </p>
 
 <h1 align="center">Spiclone</h1>
